@@ -1,0 +1,18 @@
+"-high" Makes CSGO a high priority process for your processor.
+"-freq 144 -tickrate 128" Highest refresh rate and tickrate possible
+"-nod3d9ex" Disables a DirectX extension that makes alt tab faster.
+"-noforcemparms -noforcemspd -noforcemaccel" Disable all default settings, let the autoexec decide
+"-novid" Skips the annoying Valve animation when launching the game.
+"-nojoy" Disable Joypad commands
+"-console" Open console at startup of CS:GO
+"+autoexec" "Execute Autoexec"
+
+-high -freq 144 -tickrate 128 -nod3d9ex -noforcemparms -noforcemspd -noforcemaccel -novid -nojoy -console +autoexec
+
+If you are playing on Windows Right click csgo.exe, properties, compatibility,
+then check the "Disable visual themes" and "Disable desktop composition".
+Now you can have same performance as full screen in windowed mode.
+Thanks to https://www.reddit.com/r/GlobalOffensive/comments/2xxg1b/one_flaw_that_most_streamers_make/cp4r219
+
+Also on Windows8 follow this to fix perfomances
+https://www.reddit.com/r/windows/comments/1oor43/windows_81_warning_for_gamers_issues_with/
