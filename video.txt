@@ -5,8 +5,9 @@ Model/Texture Detail: low
 Effect Detail: low
 Shader Detail: low
 Multicore Rendering: Enabled
-MSAA: 2x
+MSAA: off
 Texture Filtering: Bilinear
 FXAA: off
 Wait for Vertical Sync: Disabled
 Motion Blur: Disabled
+Uber Shader: Disabled
