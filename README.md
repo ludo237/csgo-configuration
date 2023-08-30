@@ -6,7 +6,7 @@ A lot of time people ask me about my configurations and various settings in game
 
 ## What the heck is this?
 
-It's a Github Repository that contains my CFGs for Counter Strike: Global Offensive.
+It's a Gitlab Repository that contains my CFGs for Counter Strike: Global Offensive.
 
 Counter Strike: Global Offensive is an online tactical and first-person shooter developed by Valve Corporation and Hidden Path Entertainment, who also maintained Counter-Strike: Source after its release. It is the fourth game in the main Counter-Strike franchise.
 
@@ -32,6 +32,12 @@ You can download the Zip or Clone the Repository and put the `ludo237` folder an
 `~/.steam/steam/SteamApps/common/Counter-Strike\ Global\ Offensive/csgo/cfg/`
 
 Once it's done, just open steam, and set the launchoptions provided, everything will be loaded when you start the game, the console will give you feedbacks about the loading status of the configuration.
+
+**Steam Sync Path**
+
+* Windows:
+
+`C:\Program Files (x86)\Steam\userdata\{YOUR_STEAM_USER_ID}\730\local\cfg`
 
 ## Multiple CrossAir
 
