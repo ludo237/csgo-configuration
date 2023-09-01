@@ -7,7 +7,8 @@ A lot of time people ask me about my configurations and various settings in game
 It's a Github Repository that contains my CFGs for Counter Strike.
 
 - Counter Strike: Is the latest installement of Counter Strike also called CS2
-- Counter Strike: Global Offensive is an online tactical and first-person shooter developed by Valve Corporation and Hidden Path Entertainment, who also maintained - - - - Counter-Strike: Source after its release. It is the fourth game in the main Counter-Strike franchise.
+- Counter Strike: Global Offensive is an online tactical and first-person shooter developed by Valve Corporation and Hidden Path Entertainment, who also maintained
+- Counter-Strike: Source after its release. It is the fourth game in the main Counter-Strike franchise.
 
 [Official Blog of CS:GO](http://blog.counter-strike.net)
 
