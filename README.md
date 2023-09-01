@@ -18,17 +18,13 @@ You can download the Zip or Clone the Repository and put the `cs` folder and the
 
 **Default paths:**
 
-* Windows:
+* Windows: `C:\Program Files(x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg`
+* OSx: `~/Library/Application Support/Steam/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/`
+* Linux: `~/.steam/steam/SteamApps/common/Counter-Strike\ Global\ Offensive/csgo/cfg/`
 
-`C:\Program Files(x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg`
+**CS2 beta paths:**
 
-* OSx:
-
-`~/Library/Application Support/Steam/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/`
-
-* Linux:
-
-`~/.steam/steam/SteamApps/common/Counter-Strike\ Global\ Offensive/csgo/cfg/`
+* Windows `C:\Program Files(x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\game\csgo\cfg`
 
 Once it's done, just open steam, and set the launchoptions provided, everything will be loaded when you start the game, the console will give you feedbacks about the loading status of the configuration.
 
