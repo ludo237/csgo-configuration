@@ -25,9 +25,7 @@ Once it's done, just open steam, and set the launchoptions provided, everything 
 
 **Steam Sync Path**
 
-* Windows:
-
-`C:\Program Files (x86)\Steam\userdata\{YOUR_STEAM_USER_ID}\730\local\cfg`
+* Windows: `C:\Program Files (x86)\Steam\userdata\{YOUR_STEAM_USER_ID}\730\local\cfg`
 
 ## Multiple CrossAir
 
