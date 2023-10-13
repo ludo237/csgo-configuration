@@ -1,11 +1,7 @@
-"-high" Makes CSGO a high priority process for your processor.
-"-freq 144 -tickrate 128" Highest refresh rate and tickrate possible
-"-nod3d9ex" Disables a DirectX extension that makes alt tab faster.
-"-d3d9ex" Updated version of nod3d9ex for CS March 2019 update. Use this for faster alt-tab
 "-noforcemparms -noforcemspd -noforcemaccel" Disable all default settings, let the autoexec decide
-"-novid" Skips the annoying Valve animation when launching the game.
+"-novid" Skips the Valve animation when launching the game.
 "-nojoy" Disable Joypad commands
-"-console" Open console at startup of CS:GO
+"-console" Open console at startup of CS
 "+autoexec" "Execute Autoexec"
 
--high -freq 144 -tickrate 128 -d3d9ex -noforcemparms -noforcemspd -noforcemaccel -novid -nojoy -console +autoexec
+-high -noforcemparms -noforcemspd -noforcemaccel -novid -nojoy -console +autoexec
