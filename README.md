@@ -1,35 +1,31 @@
-# Counter Strike: Global Offensive CFGs
-
-Hello.
+# Counter Strike CFG
 
 A lot of time people ask me about my configurations and various settings in game so I decide to put everything on Github because everyone can track any kind of update on my configuration and use it.
 
 ## What the heck is this?
 
-It's a Gitlab Repository that contains my CFGs for Counter Strike: Global Offensive.
+It's a Github Repository that contains my CFGs for Counter Strike.
 
-Counter Strike: Global Offensive is an online tactical and first-person shooter developed by Valve Corporation and Hidden Path Entertainment, who also maintained Counter-Strike: Source after its release. It is the fourth game in the main Counter-Strike franchise.
+- Counter Strike: Is the latest installement of Counter Strike also called CS2
+- Counter Strike: Global Offensive is an online tactical and first-person shooter developed by Valve Corporation and Hidden Path Entertainment, who also maintained
+- Counter-Strike: Source after its release. It is the fourth game in the main Counter-Strike franchise.
 
 [Official Blog of CS:GO](http://blog.counter-strike.net)
 
 
 ## How to use this repository
 
-You can download the Zip or Clone the Repository and put the `ludo237` folder and the `autoexec.cfg` inside the `cfg` folder of Counter Strike: Global Offensive
+You can download the Zip or Clone the Repository and put the `cs` folder and the `autoexec.cfg` inside the `cfg` folder of Counter Strike
 
 **Default paths:**
 
-* Windows:
+* Windows: `C:\Program Files(x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg`
+* OSx: `~/Library/Application Support/Steam/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/`
+* Linux: `~/.steam/steam/SteamApps/common/Counter-Strike\ Global\ Offensive/csgo/cfg/`
 
-`C:\Program Files(x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg`
+**CS2 beta paths:**
 
-* OSx:
-
-`~/Library/Application Support/Steam/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/`
-
-* Linux:
-
-`~/.steam/steam/SteamApps/common/Counter-Strike\ Global\ Offensive/csgo/cfg/`
+* Windows `C:\Program Files(x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\game\csgo\cfg`
 
 Once it's done, just open steam, and set the launchoptions provided, everything will be loaded when you start the game, the console will give you feedbacks about the loading status of the configuration.
 
@@ -41,7 +37,7 @@ Once it's done, just open steam, and set the launchoptions provided, everything 
 
 ## Multiple CrossAir
 
-I've some xAir inside `ludo237/xair` folder. You can select one of them in game simply by typing `exec ludo237\xair\<name>`. Also in `ludo237/bootstrap.cfg` you can change the default xAir loaded.
+I've some xAir inside `cs/xair` folder. You can select one of them in game simply by typing `exec cs\xair\<name>`. Also in `cs/bootstrap.cfg` you can change the default xAir loaded.
 
 ## Contributing
 
